@@ -4,7 +4,7 @@
 
 ```
 age = int(input('how old are you?: '))
-
+ 
 if age == 100:
   print("You're a lvl100 player! ")
 elif age >= 18:
